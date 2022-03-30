@@ -1,0 +1,29 @@
+.style{
+    display: flex;
+    margin: auto;
+    font-style: oblique;
+
+}
+h1{
+  background-color: cornsilk;
+  position: relative;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  background-position:0px;
+  padding:10mm;
+  border: 10px solid black ;
+}
+h3{
+   background-color: aliceblue;
+padding : 0.9cm;
+border:10.6px solid black
+
+}
+h5{
+  padding 10.9cm;
+  background-color: cornsilk;
+  border:8.5px solid black;
+  display:flex;
+  width: auto;
+  
+}
